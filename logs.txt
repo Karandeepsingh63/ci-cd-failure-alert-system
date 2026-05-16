@@ -1,2 +1,2 @@
 docker logs n8n-devops-project-n8n-1
-docker logs n8n-devops-project-n8n-1
+
