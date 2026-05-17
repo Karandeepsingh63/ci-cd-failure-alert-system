@@ -1,0 +1,6 @@
+# n8n sensitive data
+n8n_data/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+.env
